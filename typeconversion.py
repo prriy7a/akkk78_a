@@ -1,0 +1,8 @@
+print(len("Akki"))
+length=len("Akki")
+print("Your name has "+ str(length) +" characters")
+print(10+10)
+print("10"+"10")
+print(int("10")+int("10"))
+print(10+float(10.10))
+print(10+int("Akki"))

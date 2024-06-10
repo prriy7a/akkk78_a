@@ -1,0 +1,6 @@
+print(round(7))
+print(round(7.6))
+print(round(7.5))
+print(round(7.01))
+print(round(674,2))
+print(round(674,-1))

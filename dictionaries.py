@@ -1,0 +1,10 @@
+phone_no={"ram":9788788765,
+          "kiran":9807654321,
+          "jagadeesh":8796543214,
+          "mohan":9087654987
+          }
+phon=dict()
+print(phone_no)
+print(type(phon))
+print(type(phone_no))
+print(phone_no["jagadeesh"])
